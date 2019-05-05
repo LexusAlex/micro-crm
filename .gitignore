@@ -1,0 +1,7 @@
+vendor/
+*.swo
+*.swp
+.idea
+phpunit.xml
+
+/env/.env_prod

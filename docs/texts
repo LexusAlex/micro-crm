@@ -1,0 +1,14 @@
+https://www.yiiframework.com/doc/guide/2.0/ru/tutorial-yii-as-micro-framework документация yii2
+https://repos.php.earth/alpine/v3.9/x86_64/ где исать расширения
+
+
+Работа со временем - Всегда хранить в UTC
+https://grishaev.me/timezone про часовые пояса
+
+Дату хранить в Год месяц день час минута час + смещение +3 например
+
+Задача, написать систему для удобного хранения информации
+
+https://github.com/vlucas/phpdotenv организовать через переменные окружения https://klisl.com/dotenv.html
+
+В идеале все должно быть разбито по сервисам
